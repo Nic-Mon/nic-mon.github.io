@@ -1,1 +1,4 @@
 theme: jekyll-theme-slate
+
+url: http://nic-mon.github.io
+baseurl: /resume
